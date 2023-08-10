@@ -17,3 +17,4 @@ When combining crates of the same type (you cannot combine whatever crates you w
 - Players can press "E" on the Supply Depot to see the Supply Depot inventory levels.
 - Players can use the repair kit on the supply depot if it has been damaged to repair it. Only takes damage when it is attacked, not degrades over time like my gravity generator script.
 - Crates can be stacked into doubles, triples, and quads. If they are not singular, you cannot open them up to use their supplies.
+- Colored indicator towards the bottom to show what percent of the supply depot's total inventory has been filled (changes color every 30-40%).
